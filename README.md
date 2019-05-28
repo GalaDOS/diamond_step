@@ -10,5 +10,5 @@
 
 * output.gif:
 
-![output example](https://raw.githubusercontent.com/GalaDOS/diamond_step/master/out.gif)
+![output example](https://raw.githubusercontent.com/GalaDOS/diamond_step/master/images/out.gif)
 
